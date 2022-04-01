@@ -1,6 +1,5 @@
 import { useContext } from "react";
 import { Link } from "react-router-dom";
-import { isArrayBufferView } from "util/types";
 import AuthContext from "../context/AuthContext";
 import FavoritesContext from "../context/FavoritesContext";
 import Gif from "../models/Gif";
